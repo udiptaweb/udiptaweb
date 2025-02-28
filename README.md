@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [NIC](https://www.nic.in/)
 
-- 💬 Ask me about **Laravel, Vuejs**
+- 💬 Ask me about **Laravel, Vuejs, ReactJs, NextJs, ExpressJs, Python**
 
 - 📫 How to reach me **gogoiudipta000@gmail.com**
 
